@@ -1,7 +1,5 @@
 '''
-Section 3
-Ebissa chemeda  UGR/1032/13
-Esayas Nigussie UGR/5132/13
+Elevator system
 
 '''
 
