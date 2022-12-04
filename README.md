@@ -1,6 +1,7 @@
 # Elevetor-System
 #A small project I tried When I was a 2nd yr SW student
-Elevator (lift) management
+
+#Elevator (lift) management
 ####What is required here is to implement a system that manages one lift that works in an N-story building. And the program should take a list of pressed buttons requesting the lift and decide how to serve the request.####
 
 Although implementing a working elevator algorithm that manages elevators is hard, the first idea that came to our mind to MODEL its working was to use a queue for the different pressed buttons requesting the lift at different floors of the building, so that they will be served using the queue data structure i.e. FIFO, those who request first will be served first and when a new request comes, it will be put at the end (enqueue). But this idea didn’t seem to work well, as it won’t be fair.
